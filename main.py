@@ -24,3 +24,4 @@ if shared_user1 == shared_user2:
     print("Correct! Key exchange completed!")
 else:
     print("Looks like math gone wrong...")
+input("Press Enter to exit...")
